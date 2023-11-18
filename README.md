@@ -1,1 +1,1 @@
-# Todo App with local storage
+# Todo App with local storages
